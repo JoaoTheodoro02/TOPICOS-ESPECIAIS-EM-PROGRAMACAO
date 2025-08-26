@@ -19,7 +19,7 @@ Prompt usado no https://aistudio.google.com/:
 Falas:
 Leonardo: Atenção, galera! Chegou a sensação do semestre: o Morango do Amor!
 João: Eu sou de falar pouco… mas desse eu falo com gosto: é doce, marcante e dá vontade de compartilhar!
-Leonardo: ão é só fruta, é experiência! É alegria, é paixão em cada mordida! 
+Leonardo: Não é só fruta, é experiência! É alegria, é paixão em cada mordida! 
 João: Resumindo: eu entro com o moranguinho… e ele com a lábia. Resultado? Ninguém resiste ao Morango do Amor! 
 
 Prompt usado no https://suno.com/create?wid=default
