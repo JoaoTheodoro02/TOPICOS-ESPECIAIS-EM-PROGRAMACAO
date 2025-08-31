@@ -1,0 +1,14 @@
+# Ignorar ambientes virtuais
+meu_ambiente_virtual/
+venv/
+.venv/
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos grandes ou sensíveis
+*.wav
+*.zip
+*.mp4
+chaveapi.txt
